@@ -1,0 +1,9 @@
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\csharp-crud\crud\bin\Debug\crud.exe.config
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\csharp-crud\crud\bin\Debug\crud.exe
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\csharp-crud\crud\bin\Debug\crud.pdb
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\csharp-crud\crud\obj\Debug\crud.csproj.AssemblyReference.cache
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\csharp-crud\crud\obj\Debug\crud.Form1.resources
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\csharp-crud\crud\obj\Debug\crud.csproj.GenerateResource.cache
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\csharp-crud\crud\obj\Debug\crud.csproj.CoreCompileInputs.cache
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\csharp-crud\crud\obj\Debug\crud.exe
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\csharp-crud\crud\obj\Debug\crud.pdb

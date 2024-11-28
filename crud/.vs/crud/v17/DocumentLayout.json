@@ -3,8 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\System.in(1)\\source\\repos\\School\\Latihan\\csharp-crud\\csharp-crud\\crud\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D020DC16-AD28-4A7C-9E31-2CDD69CBB5B0}|crud.csproj|c:\\users\\system.in(1)\\source\\repos\\school\\latihan\\csharp-crud\\csharp-crud\\crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D020DC16-AD28-4A7C-9E31-2CDD69CBB5B0}|crud.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D020DC16-AD28-4A7C-9E31-2CDD69CBB5B0}|crud.csproj|C:\\Users\\System.in(1)\\source\\repos\\School\\Latihan\\csharp-crud\\csharp-crud\\crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D020DC16-AD28-4A7C-9E31-2CDD69CBB5B0}|crud.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\System.in(1)\\AppData\\Local\\Temp\\iqiwgjck..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D020DC16-AD28-4A7C-9E31-2CDD69CBB5B0}|crud.csproj|c:\\users\\system.in(1)\\source\\repos\\school\\latihan\\csharp-crud\\csharp-crud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D020DC16-AD28-4A7C-9E31-2CDD69CBB5B0}|crud.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\System.in(1)\\AppData\\Local\\Temp\\iqiwgjck..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\System.in(1)\\AppData\\Local\\Temp\\iqiwgjck..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +31,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,16 +43,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "C:\\Users\\System.in(1)\\AppData\\Local\\Temp\\iqiwgjck..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\iqiwgjck..sql",
+              "ToolTip": "SQLQuery2.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-28T14:16:52.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\System.in(1)\\source\\repos\\School\\Latihan\\csharp-crud\\csharp-crud\\crud\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\System.in(1)\\source\\repos\\School\\Latihan\\csharp-crud\\csharp-crud\\crud\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T04:20:24.984Z",
+              "WhenOpened": "2024-11-28T13:52:35.482Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\System.in(1)\\source\\repos\\School\\Latihan\\csharp-crud\\csharp-crud\\crud\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\System.in(1)\\source\\repos\\School\\Latihan\\csharp-crud\\csharp-crud\\crud\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:58:31.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\System.in(1)\\source\\repos\\School\\Latihan\\csharp-crud\\csharp-crud\\crud\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\System.in(1)\\source\\repos\\School\\Latihan\\csharp-crud\\csharp-crud\\crud\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:04:52.805Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
