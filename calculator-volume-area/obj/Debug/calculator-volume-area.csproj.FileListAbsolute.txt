@@ -1,0 +1,7 @@
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\csharp-crud\calculator-volume-area\bin\Debug\calculator-volume-area.exe.config
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\csharp-crud\calculator-volume-area\bin\Debug\calculator-volume-area.exe
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\csharp-crud\calculator-volume-area\bin\Debug\calculator-volume-area.pdb
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\csharp-crud\calculator-volume-area\obj\Debug\calculator-volume-area.csproj.AssemblyReference.cache
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\csharp-crud\calculator-volume-area\obj\Debug\calculator-volume-area.csproj.CoreCompileInputs.cache
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\csharp-crud\calculator-volume-area\obj\Debug\calculator-volume-area.exe
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\csharp-crud\calculator-volume-area\obj\Debug\calculator-volume-area.pdb
