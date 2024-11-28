@@ -1,0 +1,10 @@
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\crud-siswa\obj\Debug\crud-siswa.csproj.AssemblyReference.cache
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\crud-siswa\obj\Debug\crud_siswa.Properties.Resources.resources
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\crud-siswa\obj\Debug\crud-siswa.csproj.GenerateResource.cache
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\crud-siswa\obj\Debug\crud-siswa.csproj.CoreCompileInputs.cache
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\crud-siswa\bin\Debug\crud-siswa.exe.config
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\crud-siswa\bin\Debug\crud-siswa.exe
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\crud-siswa\bin\Debug\crud-siswa.pdb
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\crud-siswa\obj\Debug\crud-siswa.exe
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\crud-siswa\obj\Debug\crud-siswa.pdb
+C:\Users\System.in(1)\source\repos\School\Latihan\csharp-crud\crud-siswa\obj\Debug\crud_siswa.Crud.resources
